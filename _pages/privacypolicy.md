@@ -2,6 +2,7 @@
 layout: page
 title: Politique de confidentialité
 include_in_header: false
+permalink: /privacy
 ---
 
 **Last updated**  
