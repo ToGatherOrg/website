@@ -2,6 +2,7 @@
 layout: page
 title: Conditions d'utilisation
 include_in_header: false
+include_in_footer: true
 permalink: /cgu
 ---
 

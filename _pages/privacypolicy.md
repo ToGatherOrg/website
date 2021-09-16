@@ -2,6 +2,7 @@
 layout: page
 title: Politique de confidentialité
 include_in_header: false
+include_in_footer: true
 permalink: /privacy
 ---
 
