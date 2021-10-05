@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.togather.events",
+            "sha256_cert_fingerprints": [
+                "AE:84:E3:F8:7E:D0:E7:C6:2F:C5:8E:65:F8:E0:EE:AD:E7:20:9E:7B:64:B5:F1:36:13:EF:30:E3:46:80:25:67"
+            ]
+        }
+    }
+]
