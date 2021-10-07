@@ -24,3 +24,18 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
+
+# Local development
+
+First install Jekyll CLI following the installation guide at https://jekyllrb.com/docs/installation/.
+
+Run `bundle install` to retrieve dependencies metadata.
+
+Then, run the Jekyll development server using:
+```
+$ jekyll serve
+```
+
+# Deployment
+
+Simply push your changes to the main branch, they will be pushed to the `gh-pages` branch and made available online.
