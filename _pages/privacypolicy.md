@@ -29,7 +29,7 @@ Définitions :
 
 L'organisation responsable de l'application ToGather :
 
-ToGather, société par actions simplifiée au capital de 1.000 €, dont le siège social est 9 rue du HOHWALD -- 67460 SOUFFELWEYERSHEIM, immatriculée au RCS de STRASBOURG sous le numéro 900 768 177, représentée par Monsieur Antoine Burkhard, son Président, est la personne morale responsable de l'application mobile ToGather
+ToGather
 
 **Partenaire :**
 
